@@ -1,0 +1,14 @@
+namespace MiaoCsharp;
+table DishData {
+id:int;
+name:string;
+description:string;
+sourceItem:[int];
+icon:string;
+cost:int;
+dishType:string;
+}
+table DishTable {
+datas:[DishData];
+}
+root_type DishTable;

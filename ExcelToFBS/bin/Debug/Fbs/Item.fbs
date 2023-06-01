@@ -1,0 +1,16 @@
+namespace MiaoCsharp;
+table ItemData {
+id:int;
+name:string;
+text:string;
+Category:int;
+Type:string;
+value:int;
+tag:[string];
+icon:string;
+prefab:string;
+}
+table ItemTable {
+datas:[ItemData];
+}
+root_type ItemTable;

@@ -1,0 +1,12 @@
+namespace MiaoCsharp;
+table EntertainerData {
+id:int;
+name:string;
+timer:float;
+icon:string;
+prefab:string;
+}
+table EntertainerTable {
+datas:[EntertainerData];
+}
+root_type EntertainerTable;

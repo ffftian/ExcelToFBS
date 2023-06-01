@@ -1,0 +1,11 @@
+namespace MiaoCsharp;
+table TestData {
+id:int;
+name:string;
+text:string;
+ff:float;
+}
+table TestTable {
+datas:[TestData];
+}
+root_type TestTable;

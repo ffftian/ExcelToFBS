@@ -1,0 +1,12 @@
+namespace MiaoCsharp;
+table RareGuestData {
+id:int;
+name:string;
+Introduction:string;
+icon:string;
+prefab:string;
+}
+table RareGuestTable {
+datas:[RareGuestData];
+}
+root_type RareGuestTable;

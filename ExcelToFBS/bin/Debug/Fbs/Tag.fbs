@@ -1,0 +1,11 @@
+namespace MiaoCsharp;
+table TagData {
+name:string;
+type:string;
+cover:[string];
+negative:string;
+}
+table TagTable {
+datas:[TagData];
+}
+root_type TagTable;

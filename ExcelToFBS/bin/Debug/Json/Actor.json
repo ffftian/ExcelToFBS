@@ -1,0 +1,74 @@
+{
+  "datas": [
+    {
+      "id": "1",
+      "name": "路人甲",
+      "durability": "100",
+      "icon": "Assets/Source/UI/Actor/BennyIcon.png",
+      "prefab": "Assets/Prefabs/Character/路人甲.prefab"
+    },
+    {
+      "id": "2",
+      "name": "路人乙",
+      "durability": "150",
+      "icon": "Assets/Source/UI/Actor/ConnorIcon.png",
+      "prefab": "Assets/Prefabs/Character/路人乙.prefab"
+    },
+    {
+      "id": "3",
+      "name": "路人丙",
+      "durability": "200",
+      "icon": "Assets/Source/UI/Actor/alpaca01Icon.png",
+      "prefab": "Assets/Prefabs/Character/路人丙.prefab"
+    },
+    {
+      "id": "4",
+      "name": "路人丁",
+      "durability": "250",
+      "icon": "Assets/Source/UI/Actor/alpaca02Icon.png",
+      "prefab": "Assets/Prefabs/Character/路人丁.prefab"
+    },
+    {
+      "id": "5",
+      "name": "路人戊",
+      "durability": "300",
+      "icon": "Assets/Source/UI/Actor/alpaca03Icon.png",
+      "prefab": "Assets/Prefabs/Character/路人戊.prefab"
+    },
+    {
+      "id": "6",
+      "name": "路人A",
+      "durability": "350",
+      "icon": "Assets/Source/UI/Actor/BennyIcon.png",
+      "prefab": "Assets/Prefabs/Character/路人甲.prefab"
+    },
+    {
+      "id": "7",
+      "name": "路人B",
+      "durability": "400",
+      "icon": "Assets/Source/UI/Actor/ConnorIcon.png",
+      "prefab": "Assets/Prefabs/Character/路人乙.prefab"
+    },
+    {
+      "id": "8",
+      "name": "路人C",
+      "durability": "450",
+      "icon": "Assets/Source/UI/Actor/alpaca01Icon.png",
+      "prefab": "Assets/Prefabs/Character/路人丙.prefab"
+    },
+    {
+      "id": "9",
+      "name": "路人D",
+      "durability": "500",
+      "icon": "Assets/Source/UI/Actor/alpaca02Icon.png",
+      "prefab": "Assets/Prefabs/Character/路人丁.prefab"
+    },
+    {
+      "id": "10",
+      "name": "路人E",
+      "durability": "550",
+      "icon": "Assets/Source/UI/Actor/alpaca03Icon.png",
+      "prefab": "Assets/Prefabs/Character/路人戊.prefab"
+    }
+  ]
+}

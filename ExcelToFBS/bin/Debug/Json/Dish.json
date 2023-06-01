@@ -1,0 +1,84 @@
+{
+  "datas": [
+    {
+      "id": "0",
+      "name": "烧西红柿",
+      "description": "没有蛋的炒西红柿，真的有人喜欢吗",
+      "sourceItem": [
+        "0"
+      ],
+      "icon": "Assets/Source/Pub/SmallSaladIcon.png",
+      "cost": "10",
+      "dishType": "主食"
+    },
+    {
+      "id": "1",
+      "name": "烧卷心菜",
+      "description": "很日常的料理",
+      "sourceItem": [
+        "1"
+      ],
+      "icon": "Assets/Source/Pub/VegetablePieIcon.png",
+      "cost": "20",
+      "dishType": "主菜"
+    },
+    {
+      "id": "2",
+      "name": "烧白菜",
+      "description": "白菜可以烧吗？",
+      "sourceItem": [
+        "2"
+      ],
+      "icon": "Assets/Source/Pub/roastedCestnutsIcon.png",
+      "cost": "30",
+      "dishType": "主菜"
+    },
+    {
+      "id": "3",
+      "name": "铁锅炖自己",
+      "description": "就是乱炖罢了",
+      "sourceItem": [
+        "0",
+        "1",
+        "2"
+      ],
+      "icon": "Assets/Source/Pub/RoastedCarrotsWithPotatoesIcon.png",
+      "cost": "100",
+      "dishType": "主菜"
+    },
+    {
+      "id": "100",
+      "name": "橘子",
+      "description": "视为甜点",
+      "sourceItem": [
+        "4"
+      ],
+      "icon": "Assets/Source/Pub/Wine/orangeIcon.png",
+      "cost": "5",
+      "dishType": "甜品"
+    },
+    {
+      "id": "200",
+      "name": "啤酒",
+      "description": "啤酒啊，啤酒，话说，你刚才偷偷看我了吧？",
+      "sourceItem": [
+        "3"
+      ],
+      "icon": "Assets/Source/Pub/Wine/WaterIcon.png",
+      "cost": "50",
+      "dishType": "酒水"
+    },
+    {
+      "id": "201",
+      "name": "浆果酒",
+      "description": "浆果酿的酒，本店特供",
+      "sourceItem": [
+        "3",
+        "4"
+      ],
+      "icon": "Assets/Source/Pub/Wine/orangeJuiceIcon.png",
+      "cost": "70",
+      "dishType": "酒水"
+    }
+  ]
+}

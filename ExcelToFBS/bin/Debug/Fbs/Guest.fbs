@@ -1,0 +1,11 @@
+namespace MiaoCsharp;
+table GuestData {
+id:int;
+name:string;
+hold:float;
+prefab:string;
+}
+table GuestTable {
+datas:[GuestData];
+}
+root_type GuestTable;

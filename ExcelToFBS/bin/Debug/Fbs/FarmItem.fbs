@@ -1,0 +1,13 @@
+namespace MiaoCsharp;
+table FarmItemData {
+id:int;
+name:string;
+text:string;
+value:float;
+picture:string;
+prefab:string;
+}
+table FarmItemTable {
+datas:[FarmItemData];
+}
+root_type FarmItemTable;

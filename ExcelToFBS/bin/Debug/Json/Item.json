@@ -1,0 +1,114 @@
+{
+  "datas": [
+    {
+      "id": "0",
+      "name": "西红柿",
+      "text": "西红柿",
+      "Category": "0",
+      "Type": "谷物",
+      "value": "2",
+      "tag": [
+        "清淡",
+        "甜",
+        "水果"
+      ],
+      "icon": "Assets/Source/Farm/seed/TomatoIcon.png",
+      "prefab": "Assets/Prefabs/Plant/西红柿.prefab"
+    },
+    {
+      "id": "1",
+      "name": "卷心菜",
+      "text": "卷心菜是绿的",
+      "Category": "0",
+      "Type": "蔬菜",
+      "value": "4",
+      "tag": [
+        "素",
+        "生",
+        "家常"
+      ],
+      "icon": "Assets/Source/Farm/seed/CabbageIcon.png",
+      "prefab": "Assets/Prefabs/Plant/卷心菜.prefab"
+    },
+    {
+      "id": "2",
+      "name": "胡萝卜",
+      "text": "胡萝卜是橙的",
+      "Category": "0",
+      "Type": "蔬菜",
+      "value": "8",
+      "tag": [
+        "甜",
+        "素"
+      ],
+      "icon": "Assets/Source/Farm/seed/CarrotIcon.png",
+      "prefab": "Assets/Prefabs/Plant/胡萝卜.prefab"
+    },
+    {
+      "id": "3",
+      "name": "啤酒花",
+      "text": "啤酒花酿酒",
+      "Category": "0",
+      "Type": "蔬菜",
+      "value": "32",
+      "tag": [
+        "苦",
+        "下酒",
+        "冰爽"
+      ],
+      "icon": "Assets/Source/Farm/seed/WildflowersIcon.png",
+      "prefab": "Assets/Prefabs/Plant/啤酒花.prefab"
+    },
+    {
+      "id": "4",
+      "name": "浆果",
+      "text": "浆果是野外长的",
+      "Category": "0",
+      "Type": "蔬菜",
+      "value": "16",
+      "tag": [
+        "酸",
+        "水果"
+      ],
+      "icon": "Assets/Source/Farm/seed/SloeIcon.png",
+      "prefab": "Assets/Prefabs/Plant/浆果.prefab"
+    },
+    {
+      "id": "5",
+      "name": "小麦",
+      "text": "这是小麦",
+      "Category": "0",
+      "Type": "谷物",
+      "value": "2",
+      "tag": [
+        "家常"
+      ],
+      "icon": "Assets/Source/Farm/seed/WheatIcon.png",
+      "prefab": "Assets/Prefabs/Plant/浆果.prefab"
+    },
+    {
+      "id": "100",
+      "name": "石头",
+      "text": "建筑用石头",
+      "Category": "1",
+      "Type": "材料",
+      "value": "2"
+    },
+    {
+      "id": "101",
+      "name": "铁",
+      "text": "建筑用铁",
+      "Category": "1",
+      "Type": "材料",
+      "value": "2"
+    },
+    {
+      "id": "102",
+      "name": "木头",
+      "text": "建筑用木头",
+      "Category": "1",
+      "Type": "材料",
+      "value": "2"
+    }
+  ]
+}

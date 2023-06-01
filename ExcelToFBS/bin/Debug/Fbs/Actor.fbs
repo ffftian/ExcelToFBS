@@ -1,0 +1,12 @@
+namespace MiaoCsharp;
+table ActorData {
+id:int;
+name:string;
+durability:int;
+icon:string;
+prefab:string;
+}
+table ActorTable {
+datas:[ActorData];
+}
+root_type ActorTable;

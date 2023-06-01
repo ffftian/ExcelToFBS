@@ -1,0 +1,22 @@
+{
+  "datas": [
+    {
+      "id": "0",
+      "name": "Owl",
+      "hold": "60",
+      "prefab": "Assets/Prefabs/Character/Owl.prefab"
+    },
+    {
+      "id": "1",
+      "name": "Goat",
+      "hold": "100",
+      "prefab": "Assets/Prefabs/Character/Goat.prefab"
+    },
+    {
+      "id": "2",
+      "name": "急急国王",
+      "hold": "15",
+      "prefab": "Assets/Prefabs/Character/急急国王.prefab"
+    }
+  ]
+}

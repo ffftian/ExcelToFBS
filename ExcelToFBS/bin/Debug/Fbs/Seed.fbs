@@ -1,0 +1,15 @@
+namespace MiaoCsharp;
+table SeedData {
+id:int;
+name:string;
+text:string;
+value:float;
+itemId:int;
+grow:float;
+icon:string;
+prefab:string;
+}
+table SeedTable {
+datas:[SeedData];
+}
+root_type SeedTable;

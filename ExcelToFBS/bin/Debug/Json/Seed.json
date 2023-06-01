@@ -1,0 +1,53 @@
+{
+  "datas": [
+    {
+      "id": "0",
+      "name": "西红柿种子",
+      "text": "可以种出西红柿",
+      "value": "0.2",
+      "itemId": "0",
+      "grow": "1.5",
+      "icon": "Assets/Source/Farm/seed/TomatoSeedsIcon.png",
+      "prefab": "Assets/Prefabs/Plant/西红柿.prefab"
+    },
+    {
+      "id": "1",
+      "name": "卷心菜种子",
+      "text": "可以种出卷心菜",
+      "value": "3",
+      "itemId": "1",
+      "grow": "0.5",
+      "icon": "Assets/Source/Farm/seed/CabbageSeedsIcon.png",
+      "prefab": "Assets/Prefabs/Plant/卷心菜.prefab"
+    },
+    {
+      "id": "2",
+      "name": "胡萝卜种子",
+      "text": "可以种出胡萝卜",
+      "value": "0.8",
+      "itemId": "2",
+      "grow": "1",
+      "icon": "Assets/Source/Farm/seed/CarrotSeedsIcon.png",
+      "prefab": "Assets/Prefabs/Plant/胡萝卜.prefab"
+    },
+    {
+      "id": "3",
+      "name": "啤酒花种子",
+      "text": "啤酒花酿酒",
+      "value": "3",
+      "itemId": "3",
+      "grow": "2",
+      "icon": "Assets/Source/Farm/seed/WildflowersIcon.png",
+      "prefab": "Assets/Prefabs/Plant/啤酒花.prefab"
+    },
+    {
+      "id": "4",
+      "name": "小麦种子",
+      "text": "小麦种子",
+      "value": "10",
+      "itemId": "4",
+      "grow": "5",
+      "icon": "Assets/Source/Farm/seed/WheatSeedsIcon.png"
+    }
+  ]
+}

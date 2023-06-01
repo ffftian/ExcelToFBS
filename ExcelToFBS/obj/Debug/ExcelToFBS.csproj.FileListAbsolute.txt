@@ -1,0 +1,17 @@
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\obj\Debug\ExcelToFBS.csproj.AssemblyReference.cache
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\obj\Debug\ExcelToFBS.csproj.SuggestedBindingRedirects.cache
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\obj\Debug\ExcelToFBS.csproj.CoreCompileInputs.cache
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\ExcelToFBS.exe.config
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\ExcelToFBS.exe
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\ExcelToFBS.pdb
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\EPPlus.dll
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\EPPlus.xml
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\obj\Debug\ExcelToFBS.csproj.CopyComplete
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\obj\Debug\ExcelToFBS.exe
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\obj\Debug\ExcelToFBS.pdb
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\miao\source\repos\ExcelToFBS\ExcelToFBS\bin\Debug\Newtonsoft.Json.xml

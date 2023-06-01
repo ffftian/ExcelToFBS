@@ -1,0 +1,11 @@
+namespace MiaoCsharp;
+table MissonUpgradeData {
+id:int;
+itemId:[int];
+itemNeed:[int];
+expNeed:int;
+}
+table MissonUpgradeTable {
+datas:[MissonUpgradeData];
+}
+root_type MissonUpgradeTable;

@@ -1,0 +1,11 @@
+{
+  "datas": [
+    {
+      "id": "1",
+      "name": "艺人空",
+      "timer": "100",
+      "icon": "Assets/Source/UI/Entertainer/头像_空.png",
+      "prefab": "Assets/Prefabs/Entertainer/艺人空.prefab"
+    }
+  ]
+}

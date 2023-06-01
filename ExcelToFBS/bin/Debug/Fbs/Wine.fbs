@@ -1,0 +1,14 @@
+namespace MiaoCsharp;
+table WineData {
+id:int;
+name:string;
+description:string;
+sourceItem:[int];
+icon:string;
+cost:int;
+dishType:int;
+}
+table WineTable {
+datas:[WineData];
+}
+root_type WineTable;
